@@ -1,0 +1,2 @@
+# configServer
+用于SpringCloudConfigServer
